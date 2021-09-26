@@ -1,0 +1,117 @@
+style.css
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, Sans-serif;
+}
+
+body {
+    background-color: #CCC9DC;
+}
+    
+.header{
+    padding: 5px;
+    text-align: center;
+    background: rgb(34, 34, 34);
+    position: fixed;
+    width:100%;
+}
+
+.header h1{
+    color: whitesmoke;
+    font-size: 30px;
+}
+
+.header1{
+    padding: 5px;
+    text-align: center;
+    background: rgb(34, 34, 34);
+}
+
+.header1 h1{
+    color: whitesmoke;
+    font-size: 30px;
+}
+
+.crimson{
+    font-family: 'Crimson Text','Times New Roman',Times,serif;
+    font-size: 70px;
+    text-align: center;
+    background-color: white;
+}
+
+
+.row{
+    display: flex;
+}
+
+.row-a{
+    width: 19%;
+}
+
+.row-b{
+    width: 60%;
+    background-color: white;
+    border: wheat;
+}
+
+.row-c{
+    width: 19%;
+}
+
+
+.judul1{
+    margin-left: 80px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 80px;
+}
+
+.foto1{
+    margin-top: 25px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 67%;
+    display: block;
+}
+
+.judul2{
+    margin-left: 120px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 80px;
+}
+
+.judul3{
+    margin-left: 120px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 80px;
+    text-align: center;
+}
+
+.logo{
+    position:fixed; 
+	top:0; 
+	left:0;
+    width: 85px;
+    height: 85px;
+}
+
+.about{
+    text-align: center;
+    background-color: thistle;
+    font-size: 50px;
+}
+
+.foto3{
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
